@@ -5,9 +5,11 @@
 - 🌱 Currently interested in learning all the potential capabilities of the Rust Programming Language, learning more Machine Learning and WebDev in general.
 - ⚡ I have worked on WebServers with Tomcat, Django, Flask, Rocket and Actix frameworks. Hopefully I can find more Frameworks to play with and understand their strengths and weaknesses
 
+
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br />
+
 
 ### Languages and Tools:
 
@@ -24,6 +26,7 @@
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
+<br />
 
 <img align="left" alt="MrLeonardDude's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrLeonardDude&show_icons=true&hide_border=true" />
 
