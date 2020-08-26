@@ -1,8 +1,8 @@
 ### Hello there, I'm Leonardo - Software Engineer currently hosted in Campinas, Brazil
 
-## I'm primarly a BackEnd Developer but there is a diverse number of projects I have interest in!
+## I'm primarly a BackEnd Developer but I am also interested in a diverse range of Projects: From WebSecurity to OpenGL Rendering!
 - 🔭 I’m currently employed in a Health Tech Startup in Campinas called Healthbit!
-- 🌱 Currently interested in learning all the potential capabilities of the Rust Programming Language, learning more Machine Learning and WebDev in general.
+- 🌱 Currently interested in learning all the potential capabilities of the Rust Programming Language, learning more Machine Learning, CyberSecurity and WebDev in general.
 - ⚡ I have worked on WebServers with Tomcat, Django, Flask, Rocket and Actix frameworks. Hopefully I can find more Frameworks to play with and understand their strengths and weaknesses
 
 
