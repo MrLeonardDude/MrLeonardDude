@@ -28,7 +28,7 @@
 
 <br />
 
-<img align="left" alt="MrLeonardDude's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrLeonardDude&show_icons=true&hide_border=true" />
+<img align="left" alt="MrLeonardDude's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrLeonardDude&show_icons=true&hide_border=true&theme=dark" />
 
 [linkedin]: https://www.linkedin.com/in/leonardo-pagnez-a42073160/
 
