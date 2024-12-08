@@ -14,7 +14,10 @@
   - Python REST API Servers using FastAPI or Php WebApp using Laravel;
   - Pub-Sub Event Driven Applications using Kafka written in Python/Typescript using Node/Go;
   - Message Driven Applications using RabbitMQ or SQS also written in Python/Typescript/Go;
-- As a big appreciator of containerization, I love to put everything I write in fancy docker file that can be orchestrated in a K8s cluster using ArgoCD applications with Helm. Also love to use Backstage for Platform provided solutions for accelerating developer setup and standerdizing code tech stacks.
+- As a big appreciator of containerization, I love putting anything and  everything I write in fancy docker file
+   - So that I may orchestrate them in a K8s cluster
+   - That also uses ArgoCD applications with Helm. 
+   - Big appreciator of  the powers of Backstage for providing Catalog Solutions aiming to accelerate Developer Setup and Standerdizing Code Tech Stacks.
 
 ### Connect with me:
 
