@@ -1,10 +1,10 @@
 ## Hello there!! 
 
 ### Name is Leonardo 
-Current Professional Passion? Software Engineer 
-Current host? in Piracicaba, Brazil
+- Current Professional Passion? Software Engineer
+- Current host? Piracicaba, Brazil
 
-### A mature BackEnd Developer with a flaming passion for all things DevOps!
+### An experienced BackEnd Developer with a flaming passion for all things DevOps!
 - 🔭 I’m currently employed in a Software Consultant Company in Campinas called CI&T!
 - 🌱 Currently interested in learning:
   -  learning all things DevOps, with special focus on K8s and IDP resources like Backstage and ArgoCD;
