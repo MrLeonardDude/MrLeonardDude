@@ -1,16 +1,20 @@
-## Hello there, I'm Leonardo - Software Engineer currently hosted in Piracicaba, Brazil
+## Hello there!! 
 
-### I'm primarly a BackEnd Developer but I am also interested in a diverse range of Projects: From WebSecurity to OpenGL Rendering!
+### Name is Leonardo 
+Current Professional Passion? Software Engineer 
+Current host? in Piracicaba, Brazil
+
+### A mature BackEnd Developer with a flaming passion for all things DevOps!
 - 🔭 I’m currently employed in a Software Consultant Company in Campinas called CI&T!
 - 🌱 Currently interested in learning:
-  -  all the potential capabilities of the Rust Programming Language,
   -  learning all things DevOps, with special focus on K8s and IDP resources like Backstage and ArgoCD;
   -  Cybersecurity, I see myself as a blue team.
+  -  all the potential capabilities of the Rust Programming Language,
 - ⚡ With more than 7 yeas in the professional software industry I have accrued many different tech stacks but some of my favourites are:
   - Python REST API Servers using FastAPI or Php WebApp using Laravel;
   - Pub-Sub Event Driven Applications using Kafka written in Python/Typescript using Node/Go;
   - Message Driven Applications using RabbitMQ or SQS also written in Python/Typescript/Go;
-- As a big appreciator of containerization, I love to put everything I write in fancy docker file that can be orchestrated in a K8s cluster using ArgoCD applications with Helm.
+- As a big appreciator of containerization, I love to put everything I write in fancy docker file that can be orchestrated in a K8s cluster using ArgoCD applications with Helm. Also love to use Backstage for Platform provided solutions for accelerating developer setup and standerdizing code tech stacks.
 
 ### Connect with me:
 
