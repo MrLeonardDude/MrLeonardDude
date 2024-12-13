@@ -1,10 +1,12 @@
-## Hello there!! 
+# Hello there, welcome to my personal page! 
 
-### Name is Leonardo 
+
+## /whoami
 - Current Professional Passion? Software Engineer
 - Current host? Piracicaba, Brazil
 
-### An experienced BackEnd Developer with a flaming passion for all things DevOps!
+
+## An experienced BackEnd Developer with a flaming passion for all things DevOps!
 - 🔭 I’m currently employed in a Software Consultant Company in Campinas called CI&T!
 - 🌱 Currently interested in learning:
   -  learning all things DevOps, with special focus on K8s and IDP resources like Backstage and ArgoCD;
@@ -19,27 +21,26 @@
    - That also uses ArgoCD applications with Helm. 
    - Big appreciator of  the powers of Backstage for providing Catalog Solutions aiming to accelerate Developer Setup and Standerdizing Code Tech Stacks.
 
-### Connect with me:
+## Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br />
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+</br>
 
-
-### Languages and Tools:
+## Favourite Languages and Tools:
 
 <img align="left" alt="K8s" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+</br>
 
-<br />
+## Random Github Stats
 
-<img align="left" alt="MrLeonardDude's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrLeonardDude&show_icons=true&hide_border=true&theme=dark" />
+![MrLeonardDude's Stats](https://github-readme-stats.vercel.app/api?username=MrLeonardDude&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+
+![MrLeonardDude's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrLeonardDude&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
 [linkedin]: https://www.linkedin.com/in/leonardo-pagnez-a42073160/
 
